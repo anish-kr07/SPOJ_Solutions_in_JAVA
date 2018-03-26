@@ -1,4 +1,4 @@
-# SPOJ_Soulutions_inJ_AVA
+# SPOJ_Soulutions_inJAVA
 This is a dedicated Repo for SPOJ problems' solutions in jAVA
 
 Some selected solutions
